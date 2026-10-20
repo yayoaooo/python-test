@@ -1,0 +1,10 @@
+# agent 工作区，绝不进仓库
+.workbuddy/
+
+# IDE 个人配置
+.idea/
+.vscode/
+
+# Python 运行缓存
+__pycache__/
+*.pyc
