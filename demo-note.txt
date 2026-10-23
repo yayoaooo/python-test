@@ -1,1 +1,1 @@
-"edited by side B (clone-test)" 
+side B and side A both edited this file
